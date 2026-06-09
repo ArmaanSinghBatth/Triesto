@@ -1911,7 +1911,7 @@ export default function App() {
                 <div className="stars">★★★★★</div>
                 <span className="quote-mark">"</span>
                 <p className="testimonial-text">The espresso here is hands down the best I've had in the entire Tricity. The ambiance is gorgeous — warm, intimate, and truly Italian. Triesto has become my go-to for weekend mornings.</p>
-                <div className="testimonial-author">Priya Sharma</div>
+                <div className="testimonial-author">Armaan Singh Batth</div>
                 <div className="testimonial-source">Chandigarh · Google Review · ★ 5.0</div>
               </div>
               <div className="testimonial-slide">
@@ -1925,7 +1925,7 @@ export default function App() {
                 <div className="stars">★★★★★</div>
                 <span className="quote-mark">"</span>
                 <p className="testimonial-text">The tiramisu is absolutely phenomenal — I've been to Italy and this rivals anything I had there. The cold brew tonic is their secret weapon. Do not miss it. Rated 4.7 for a reason.</p>
-                <div className="testimonial-author">Nidhi Kapoor</div>
+                <div className="testimonial-author"Armaan Singh</div>
                 <div className="testimonial-source">Panchkula · Instagram · ★ 5.0</div>
               </div>
               <div className="testimonial-slide">
